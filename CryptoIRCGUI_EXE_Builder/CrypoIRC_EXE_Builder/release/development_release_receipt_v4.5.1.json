@@ -1,0 +1,18 @@
+{
+  "application": {
+    "bytes": 13434252,
+    "file": "CRYPTO_NOCTURNE.exe",
+    "sha256": "533d85e13f2144a987639c40c55c0ae79139aa08e6ea6bcd26045576ef45cf3f"
+  },
+  "authenticode_verified_locally": false,
+  "installer": {
+    "bytes": 34993596,
+    "file": "CRYPTO_NOCTURNE_Setup_v4.5.1.exe",
+    "sha256": "0ec683a96231769a21833509b88b5bf57b43a634cca38f311f85e803813b1deb"
+  },
+  "production_ready": false,
+  "release_class": "UNVERIFIED DEVELOPMENT",
+  "schema": 1,
+  "version": "4.5.1",
+  "warning": "This unsigned JSON inventory is not a digital signature or financial authorization."
+}

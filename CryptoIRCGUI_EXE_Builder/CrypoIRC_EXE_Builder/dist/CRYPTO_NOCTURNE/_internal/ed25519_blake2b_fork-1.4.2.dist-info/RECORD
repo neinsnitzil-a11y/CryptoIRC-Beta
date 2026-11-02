@@ -1,0 +1,15 @@
+ed25519_blake2b/__init__.py,sha256=nkFdPZQQqIHTm9t_5h4raCa5tHF5ASY4wv7E_HAj4co,347
+ed25519_blake2b/__pycache__/__init__.cpython-312.pyc,,
+ed25519_blake2b/__pycache__/_version.cpython-312.pyc,,
+ed25519_blake2b/__pycache__/keys.cpython-312.pyc,,
+ed25519_blake2b/__pycache__/test_ed25519.cpython-312.pyc,,
+ed25519_blake2b/_ed25519.cp312-win_amd64.pyd,sha256=wW4sn8T0UO9lBj67J0jxB6fJ5DZK5FPhm-53kpFprKU,161792
+ed25519_blake2b/_version.py,sha256=BG12pmEO_YOxB_xUz7sNv20lzgrwQ60u0paDn7SG_9Q,23
+ed25519_blake2b/keys.py,sha256=x71IHAcddaHj_ifq4N2fHSGZbSycPswzft7ERcspOkY,7343
+ed25519_blake2b/test_ed25519.py,sha256=dugInfQNDU70-QWUoAveXlTCPw9qRsvVnrxuTyXVDtA,12422
+ed25519_blake2b_fork-1.4.2.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+ed25519_blake2b_fork-1.4.2.dist-info/METADATA,sha256=YT9j4tIMxIR4CA8X1TbwYyMen_fCOwFTIia88K9NMO8,10503
+ed25519_blake2b_fork-1.4.2.dist-info/RECORD,,
+ed25519_blake2b_fork-1.4.2.dist-info/WHEEL,sha256=-GHpayM8oxmVQ6lwBZOCUBihymZgdGGr6p98RT74444,101
+ed25519_blake2b_fork-1.4.2.dist-info/licenses/LICENSE,sha256=XGlLRX2aiDTarOKewjJ0FWvYZEeOjjJaaTF6gQty6Ww,1177
+ed25519_blake2b_fork-1.4.2.dist-info/top_level.txt,sha256=8fTv65ZLTRpj-3HYr_QD894aCvv6i34qsoqwVFhuRFs,16

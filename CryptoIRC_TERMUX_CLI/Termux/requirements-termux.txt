@@ -1,0 +1,9 @@
+# Resolved for native Termux at install time. Android's native packages provide
+# cryptography/PyNaCl, so avoid glibc-specific pins of those in desktop requirements.
+# Not guaranteed to compile for every CPU/Python combination.
+argon2-cffi>=25.1,<27
+bip-utils==2.12.3
+web3==7.13.0
+requests>=2.32,<3
+PySocks==1.7.1
+prompt-toolkit>=3.0.52,<4

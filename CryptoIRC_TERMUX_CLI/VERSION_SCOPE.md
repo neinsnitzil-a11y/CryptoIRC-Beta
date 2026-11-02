@@ -1,0 +1,1 @@
+Source: original v2.7.x VaultForge Linux CLI, copied in full into Termux/app. Native Android changes limited to Termux installation, runtime launch and node autostart; network and wallet protocol untouched. Native Android and PRoot runtime not tested on device.

@@ -1,0 +1,13 @@
+# Application deps. Install once in an isolated venv with the installers.
+bip-utils==2.12.3
+cryptography==50.0.2
+argon2-cffi==25.1.0
+web3==7.13.0
+requests==2.32.3
+qrcode[pil]==8.2
+
+# Optional Tor SOCKS5 transport. Never silently falls back to direct.
+PySocks==1.7.1
+
+# Live Alpaca stock/crypto trade and candle streams (market data only).
+websockets==15.0.1

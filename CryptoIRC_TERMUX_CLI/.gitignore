@@ -1,0 +1,57 @@
+# Generated Python, releases and venvs
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+.runtime/
+venv/
+dist/
+build/
+release/
+build_logs/
+*.egg-info/
+# Never check in live wallet or chat data
+.env
+.env.*
+!.env.example
+*.vault
+*.fiat
+*.secret
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+*.sqlite
+*.sqlite3
+*.db
+*.db-wal
+*.db-shm
+*.log
+node.json
+node.secret
+accounts.json
+known_peers.json
+blocked.json
+node.pid
+*token*.json
+*credentials*.json
+# Explicit local runtime data (not the committed source tree!)
+data/
+local-data/
+private-data/
+# Build outputs
+*.exe
+*.msi
+*.zip
+.DS_Store
+Thumbs.db
+
+# Android runtime and private data
+Termux/.venv/
+Termux/.runtime/
+Termux/app/.venv/
+Termux/app/.runtime/
+Termux/app/node.log
+Termux/app/*.db
